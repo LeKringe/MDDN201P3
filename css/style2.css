@@ -32,9 +32,6 @@ body{
   background-image: url("../img/stars.gif");
 }
 
-p.sansserif {
-  font-family: Comic-sans, sans-serif;
-}
 
 section{
   max-width: 1000px;
@@ -47,8 +44,8 @@ section{
 header{
   background-color: #e2f7ff ;
   color: blue; /* more readable on an orange background */
-  padding-top: 50px;
-  padding-bottom: 50px;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 
 nav{
@@ -59,6 +56,7 @@ nav{
 
 nav a, nav h3{
  /* float: left;*/
+   width: 100%;
   margin: 0px;
   line-height: 200px;
   height: 100px;
@@ -107,4 +105,21 @@ nav a:hover{
   padding: 20px; /* I add this to cells to add a little padding*/
 }
 
+.column {
+/*  float: left;*/
+   width: 100%;
+  width: 33.33%;
+/*  padding: 5px;*/
+}
 
+.code {
+  position: absolute;
+  font-size: 30px;
+  color: #00FF41;
+   width: 100%;
+  margin: 0px;
+  text-align: center;
+  
+ /* margin-left: 1000px;
+  margin-right: 1000px;*/
+}
