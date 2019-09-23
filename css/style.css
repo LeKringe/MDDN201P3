@@ -250,3 +250,17 @@ h3 {
   color: #d5f7fd;
       border-radius: 80px;
 }
+
+/*-------------------------*/
+
+body2, html2 {
+  background-color: #87e5ff;
+  /*background-color: #d5f7fd;*/
+   text-align: center;
+  height: 100%;
+  margin: 0;
+
+  font: 400 25px/1.8 "Verdana";
+  color: #000000;
+  border-radius: 80px;
+}
