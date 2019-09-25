@@ -1,10 +1,10 @@
 
 .header img {
-  /*float: left;*/
+
 
   width: 1750px;
   height: 350px;
- /* background: #555;*/
+
 }
 
 section{
@@ -19,14 +19,7 @@ section{
 
 
 
-/*
-nav{
-  width: 100%;
-  height: 50px;
-  background-color: #3B6980;
-    float: left;
 
-}*/
 
 
 nav a:hover{
@@ -53,7 +46,7 @@ nav a{
 
 
 body, html {
- /* background-color: #87e5ff;*/
+
   background-color: #d5f7fd;
    text-align: center;
   height: 100%;
@@ -64,9 +57,9 @@ body, html {
   border-radius: 80px;
 }
 
-.img-1, .img-2, .img-3, .img-4, .img-5, .img-6, .img-7, .img-b1, .img-b2, .img-b3, .img-g1, .img-g2, .img-g3 {
+.img-1, .img-2, .img-3, .img-4, .img-5, .img-6, .img-7 {
   position: relative;
-/*  opacity: 0.65;*/
+
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -109,37 +102,13 @@ body, html {
   background-image: url("../img/SLEEK7.jpg");
   min-height: 100%;
 }
-.img-g1 {
-  background-image: url("../img/graf02.jpg");
-  min-height: 800px;
-}
-.img-g2 {
-  background-image: url("../img/graf05.jpg");
-  min-height: 800px;
-}
-.img-g3 {
-  background-image: url("../img/graf04.jpg");
-  min-height: 800px;
-}
-.img-b1 {
-  background-image: url("../img/box01.jpg");
-  min-height: 800px;
-}
-.img-b2 {
-  background-image: url("../img/box001.jpg");
-  min-height: 800px;
-}
-.img-b3 {
-  background-image: url("../img/box04.jpg");
-  min-height: 800px;
-}
+
 
 
 .caption0 {
 
   position: absolute;
- /* left: 50%;*/
-  /*top: 25%;*/
+
   top: 40%;
   width: 100%;
   text-align: center;
@@ -158,8 +127,7 @@ body, html {
 .caption00 {
 
   position: absolute;
- /* left: 50%;*/
-  /*top: 25%;*/
+
   top: 40%;
   width: 100%;
   text-align: center;
@@ -173,15 +141,14 @@ body, html {
   padding: 30px;
   font-size: 100px;
   letter-spacing: 8px;
-  /*color: #d5f7fd;*/
+ 
 }
 
 
 .caption101 {
 
   position: absolute;
- /* left: 50%;*/
-  /*top: 25%;*/
+
   top: 50%;
   width: 150%;
   text-align: center;
@@ -189,20 +156,19 @@ body, html {
 }
 
 .caption101 span.border {
- /* background-color: #000000;*/
+
    text-align: center;
-    /*   border-radius: 100px;*/
-/*  padding: 30px;*/
+
   font-size: 100px;
   letter-spacing: 8px;
-  /*color: #d5f7fd;*/
+
 }
 
 
 .caption {
 
   position: absolute;
- /* left: 50%;*/
+
   top: 30%;
   width: 100%;
   text-align: center;

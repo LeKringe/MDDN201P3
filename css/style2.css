@@ -1,18 +1,4 @@
-/*
 
-
-body, html {
-
-  background-image: url("../img/stars.gif");
-   text-align: center;
-  height: 100%;
-  margin: 0;
-
-  font: 400 25px/1.8 "Verdana";
-  color: #000000;
-  border-radius: 80px;
-}
-*/
 
 *{
   box-sizing: border-box; 
@@ -106,10 +92,10 @@ nav a:hover{
 }
 
 .column {
-/*  float: left;*/
+
    width: 100%;
   width: 33.33%;
-/*  padding: 5px;*/
+
 }
 
 .code {
@@ -120,7 +106,5 @@ nav a:hover{
   margin: 0px;
     #link { color: #00FF41; }
   text-align: center;
-  
- /* margin-left: 1000px;
-  margin-right: 1000px;*/
+
 }
